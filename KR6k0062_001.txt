@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:33.191443
+#+DATE: 2015-08-30 20:43:34.218903
 #+TITLE: 佛說沙彌十戒儀則經
 #+PROPERTY: CBETA_ID T24n1473
 #+PROPERTY: ID KR6k0062
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1473
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6k0062_T_001-0935b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1473¶
-
- 《佛說沙彌十戒儀則經》(計七十二頌)¶
+No. 1473¶
+《佛說沙彌十戒儀則經》(計七十二頌)¶
 ¶
-西天譯經朝散大夫試鴻臚少卿¶
-傳法大師臣施護奉　詔譯¶
+宋西天三藏朝散大夫試鴻臚少卿¶
+傳法大師施護奉　詔譯¶
 
 #+BEGIN_VERSE
 「　頂禮一切智
@@ -41,7 +40,7 @@ No.1473¶
 　中後時亦然
 　甕器盂鉢等¶
 　水蟲有大小
-　志心恒觀照¶
+　至心恒觀照¶
 　以羅淨濾水
 　審觀而可用¶
 　食飲懷慈愍
@@ -158,7 +157,7 @@ No.1473¶
 　不得出妄語¶
 　若言見天人
 　與我同言語¶
-　大人所住處
+　天人所住處
 　我自亦曾到¶
 　乃至乾闥婆
 　恭伴龍夜叉¶
@@ -205,7 +204,7 @@ No.1473¶
 　故往而觀看¶
 　而得犯戒罪
 　香油塗飾身¶
-　旃檀欝金等
+　栴檀欝金等
 　及以好花鬘¶
 　金銀珠寶類
 　種種莊嚴身¶
